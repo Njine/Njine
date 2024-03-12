@@ -26,6 +26,7 @@ I'm a software developer at Njinway, a creative problem solver, and a passionate
 - I integrate M-Pesa payments via Django
 - Currently assisting Costin & Webster Law firm with digital practice management
 - Built WordPress websites for [Costin & Webster Law](https://costinwebsterlaw.co.ke/) and [Silvamara Homes](https://silvamarahomes.com/)
+- I am a co-founder at NJINWAY
 
 ## Personal Interests 🎸
 
