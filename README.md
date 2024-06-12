@@ -6,7 +6,8 @@ I'm a software developer at Njinway, a creative problem solver, and a passionate
 
 - 💼 Software Developer at Njinway
 - 🌱 Currently learning software engineering at ALX-Africa
-- 🎓 Graduated from USIU-Africa with a degree in Information Systems Technology
+- 🎓 Studied Information Systems Technology at USIU-Africa
+- 🎓 Studied Law at MOi University 
 
 ## My Interests 🌟
 
