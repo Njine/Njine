@@ -5,7 +5,7 @@ I'm a software developer at Njinway, a creative problem solver, and a passionate
 ## About Me ℹ️
 
 - 💼 Software Developer at Njinway
-- 🌱 Currently learning software engineering at ALX-Africa
+- 🌱 Studied software engineering at ALX-Africa
 - 🎓 Studied Information Systems Technology at USIU-Africa
 - 🎓 Studied Law at Moi University
 - 🎓 Studied ACCA at Strathmore Business School 
