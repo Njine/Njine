@@ -39,7 +39,7 @@ I'm a software developer at Njinway, a creative problem solver, and a passionate
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/brian-njine-aa730684/)
 - 🐦 [Twitter](https://twitter.com/BrainNjyn?s=20)
-- 📧 Email: bnjine@costinwebsterlaw.co.ke
+- 📧 Email: brikab@njinway.com
 
 Feel free to reach out to me for interesting discussions or collaborations!
 
