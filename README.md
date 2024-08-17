@@ -8,7 +8,8 @@ I'm a software developer at Njinway, a creative problem solver, and a passionate
 - 🌱 Studied software engineering at ALX-Africa
 - 🎓 Studied Information Systems Technology at USIU-Africa
 - 🎓 Studied Law at Moi University
-- 🎓 Studied ACCA at Strathmore Business School 
+- 🎓 Studied ACCA at Strathmore Business School
+- 🎓 Studying EVM development with Solidity at Encode Club EVM Bootcamp 
 
 ## My Interests 🌟
 
