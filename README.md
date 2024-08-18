@@ -23,6 +23,7 @@ I'm a software developer at Njinway, a creative problem solver, and a passionate
 - PHP (Laravel)
 - JavaScript (Node.js)
 - Solidity
+- Docker|Puppet|prometheus|Datadog 
 
 ## What I Do 💼
 
