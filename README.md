@@ -22,6 +22,7 @@ I'm a software developer at Njinway, a creative problem solver, and a passionate
 - Python (Django, Flask)
 - PHP (Laravel)
 - JavaScript (Node.js)
+- Solidity
 
 ## What I Do 💼
 
