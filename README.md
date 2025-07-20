@@ -1,48 +1,62 @@
-# Hi there, I'm Brian Njine! 👋
+<h1 align="center">Brian Njine 🇰🇪</h1>
+<p align="center">
+  Full-stack Web3 Developer · zk Engineer · Product Architect  
+</p>
 
-I'm a software developer at Njinway, a creative problem solver, and a passionate backend developer. I have expertise in machine learning and business IT support. Here's a bit more about me:
+---
 
-## About Me ℹ️
+### 🧠 About Me
 
-- 💼 Software Developer at Njinway
-- 🌱 Studied software engineering at ALX-Africa
-- 🎓 Studied Information Systems Technology at USIU-Africa
-- 🎓 Studied Law at Moi University
-- 🎓 Studied ACCA at Strathmore Business School
-- 🎓 Studying EVM development with Solidity at Encode Club EVM Bootcamp 
+I'm a developer, builder, and problem-solver focused on the intersection of **decentralized infrastructure**, **zero-knowledge proofs**, and **real-world impact**.
 
-## My Interests 🌟
+From verifiable climate solutions to traditional African card games on-chain, I design and build with the user, the ecosystem, and ethics in mind.
 
-- 💻 Backend Development
-- 🤖 Machine Learning
-- 🛠 Business IT Support
+---
 
-## Languages and Frameworks 🚀
+### ⚒️ Tech Stack
 
-- Python (Django, Flask)
-- PHP (Laravel)
-- JavaScript (Node.js)
-- Solidity
-- Docker|Puppet|prometheus|Datadog 
+> Languages & Frameworks  
+`TypeScript` · `Solidity` · `Python` · `Rust` (learning)  
+`NestJS` · `Next.js` · `React` · `TailwindCSS`
 
-## What I Do 💼
+> Blockchain  
+`Hardhat` · `Viem` · `Wagmi` · `Expander` · `zkKeyless`  
+`EVM Chains (Celo, Ethereum)` · `NEO X` · `Aptos`
 
-- I build websites and ERPs for businesses
-- I integrate M-Pesa payments via Django
-- Currently assisting Costin & Webster Law firm with digital practice management
-- Built WordPress websites for [Costin & Webster Law](https://costinwebsterlaw.co.ke/) and [Silvamara Homes](https://silvamarahomes.com/)
-- I am a co-founder of NJINWAY
+> Infra & Tooling  
+`PostgreSQL` · `Redis` · `NATS` · `Docker` · `Coolify`  
+`Chainlink` · `IPFS` · `Cloudflare Workers`
 
-## Personal Interests 🎸
+---
 
-- 🎸 Playing the guitar
-- 🥋 Taekwondo training with strong left and back kicks
+### 🚀 Projects
 
-## Get in Touch 📫
+- 🎯 [**AthleteIQ**](https://github.com/Njine)  
+  zkML platform for scoring athletic performance verifiably using Expander (zk-GKR), Aptos keyless login, and ONNX models.
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/brian-njine-aa730684/)
-- 🐦 [Twitter](https://twitter.com/BrainNjyn?s=20)
-- 📧 Email: brikab@njinway.com
+- 🌳 [**KārVāSudhī**](https://github.com/anshugarg401/KarVaSudhiprod)  
+  NeoX Hack finalist — NFTs for carbon removal via Kenyan reforestation and Direct Air Capture projects.
 
-Feel free to reach out to me for interesting discussions or collaborations!
+- 🃏 [**Kadike**](https://github.com/Njine)  
+  A smart contract-powered version of a traditional African card game with M-Pesa onramp and ZK move proofs.
 
+---
+
+### 💡 What I'm Exploring
+
+- ZK-native reputation systems  
+- Proof of computation and AI trust  
+- Onchain sustainability and ReFi  
+- Local-first + open governance systems for Africa
+
+---
+
+### 📬 Let's Connect
+
+- 🧑‍💻 [LinkedIn](https://linkedin.com/in/briannjine)
+- ✉️ [Email](mailto:njinek@gmail.com)
+
+---
+
+> “If it can’t be verified, it doesn’t belong onchain.”  
+> – Me, probably.
