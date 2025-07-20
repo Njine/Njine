@@ -31,13 +31,13 @@ From verifiable climate solutions to traditional African card games on-chain, I 
 
 ### 🚀 Projects
 
-- 🎯 [**AthleteIQ**](https://github.com/Njine)  
+- 🎯 [**AthleteIQ**](https://github.com/Njine/AthleteIQ)  
   zkML platform for scoring athletic performance verifiably using Expander (zk-GKR), Aptos keyless login, and ONNX models.
 
 - 🌳 [**KārVāSudhī**](https://github.com/anshugarg401/KarVaSudhiprod)  
   NeoX Hack finalist — NFTs for carbon removal via Kenyan reforestation and Direct Air Capture projects.
 
-- 🃏 [**Kadike**](https://github.com/Njine)  
+- 🃏 [**Kadike**](https://github.com/Njine/kadike)  
   A smart contract-powered version of a traditional African card game with M-Pesa onramp and ZK move proofs.
 
 ---
