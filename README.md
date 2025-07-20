@@ -1,6 +1,6 @@
-<h1 align="center">Brian Njine 🇰🇪</h1>
+<h1 align="center">Brian Njine</h1>
 <p align="center">
-  Full-stack Web3 Developer · zk Engineer · Product Architect  
+  Web3 Developer · zk Engineer · Product Architect  
 </p>
 
 ---
